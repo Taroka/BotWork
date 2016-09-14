@@ -1,0 +1,28 @@
+{
+  "name": "botwork",
+  "version": "1.0.0",
+  "description": "Prepare for Slack Bot\r And I want to practice VIM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taroka/BotWork.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "MBF"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taroka/BotWork/issues"
+  },
+  "homepage": "https://github.com/Taroka/BotWork#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^5.0.0-beta-1"
+  }
+}
